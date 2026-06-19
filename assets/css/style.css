@@ -1,0 +1,15 @@
+.highlight-text{
+    background-color: yellow;
+}
+.strong-text {
+    font-weight: bold;
+}
+.strikethrough-text {
+    text-decoration: line-through;
+}
+.undeline-text {
+    text-decoration: underline;
+}
+.italic-text {
+    font-style: italic;
+}
